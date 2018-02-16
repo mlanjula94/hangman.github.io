@@ -1,0 +1,17 @@
+@media only screen and (max-width: 500px) {
+    .smallScreen {
+        display: none;
+    }
+}
+
+.width{
+    width: 100%;
+}
+
+ body{
+    background-color: black;
+}
+
+.container {
+    height: 50%;
+}
